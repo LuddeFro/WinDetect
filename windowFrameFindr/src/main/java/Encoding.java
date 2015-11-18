@@ -141,7 +141,7 @@ public class Encoding {
             default: return Game.NoGame;
         }
     }
-
+    /*
     public static String getAcceptStringFromGame(Game game) {
         switch (game){
             case NoGame:
@@ -161,7 +161,7 @@ public class Encoding {
     }
     public static String getAcceptStringFromGame(int game) {
         return getAcceptStringFromGame(Encoding.getGameFromInt(game));
-    }
+    }*/
 
     public static String getWindowTitleFromGame(Game game) {
         switch (game){

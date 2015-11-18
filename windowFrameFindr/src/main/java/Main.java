@@ -1,3 +1,19 @@
+import com.sun.jna.Memory;
+import com.sun.jna.Native;
+import com.sun.jna.Pointer;
+import com.sun.jna.platform.win32.User32;
+import com.sun.jna.platform.win32.WinDef;
+import com.sun.jna.platform.win32.WinGDI;
+import com.sun.jna.platform.win32.WinNT;
+import com.sun.jna.ptr.PointerByReference;
+import com.sun.jna.win32.W32APIOptions;
+
+import javax.imageio.ImageIO;
+import java.awt.*;
+import java.awt.image.BufferedImage;
+import java.awt.image.ColorModel;
+import java.io.File;
+
 /**
  * Created by Ludvig Fröberg on 2015-09-28.
  */
@@ -9,14 +25,23 @@ public class Main {
     private static final int MAX_TITLE_LENGTH = 1024;
 
     public static void main(String[] args) throws Exception {
-        Thread.sleep(1000);
+
+
+        Thread.sleep(3000);
+
         System.out.println(QueueChecker.foregroundWindowMatches(Game.CSGO));
         System.out.println(QueueChecker.foregroundWindowMatches(Game.Dota2));
         System.out.println(QueueChecker.foregroundWindowMatches(Game.LoL));
         System.out.println(QueueChecker.queuePopped(Game.CSGO));
         System.out.println(QueueChecker.queuePopped(Game.LoL));
         System.out.println(QueueChecker.queuePopped(Game.Dota2));
+
+
     }
+
+
+
+
 
 
 
