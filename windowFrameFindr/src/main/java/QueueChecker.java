@@ -261,8 +261,8 @@ public class QueueChecker {
             for (int i = 0; i < numSquares; i++) {
                 BufferedImage scap = cap.getSubimage(sx[i],sy[i],sw[i],sh[i]);
                 //dev lines below to see what image is caught
-                File file = new File(Encoding.getStringFromGame(game)+i+"AVGCLRCap.png");
-                ImageIO.write(scap, "png", file);
+                //File file = new File(Encoding.getStringFromGame(game)+i+"AVGCLRCap.png");
+                //ImageIO.write(scap, "png", file);
                 boolean cn = closeEnough(scap, r[i], g[i], b[i]);
                 if ((cn && !shouldmatch[i]) || (!cn && shouldmatch[i])) {
                     return false;

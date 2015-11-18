@@ -69,8 +69,8 @@
       <file leaf-file-name="QueueChecker.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/QueueChecker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.28613862">
-              <caret line="110" column="9" selection-start-line="110" selection-start-column="9" selection-end-line="110" selection-end-column="9" />
+            <state vertical-scroll-proportion="0.1980198">
+              <caret line="256" column="13" selection-start-line="256" selection-start-column="13" selection-end-line="256" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#2033#2034#0" expanded="true" />
@@ -80,6 +80,16 @@
                 <element signature="e#3033#3034#0" expanded="true" />
                 <element signature="e#3073#3074#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Status.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Status.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -103,13 +113,6 @@
       </file>
       <file leaf-file-name="Counter Strike Global Offensive0AVGCLRCap.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Counter Strike Global Offensive0AVGCLRCap.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="League of Legends0AVGCLRCap.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/League of Legends0AVGCLRCap.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -828,13 +831,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Status.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Dota 2OCRCap.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -921,6 +917,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Status.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Encoding.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -931,8 +935,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/QueueChecker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28613862">
-          <caret line="110" column="9" selection-start-line="110" selection-start-column="9" selection-end-line="110" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.1980198">
+          <caret line="256" column="13" selection-start-line="256" selection-start-column="13" selection-end-line="256" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#2033#2034#0" expanded="true" />
